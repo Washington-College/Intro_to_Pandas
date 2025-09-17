@@ -7,5 +7,5 @@
       "ms-toolsai.jupyter",
       "ms-python.data-science"
     ],
-    "postCreateCommand": "pip install numpy pandas tensorflow"
+    "postCreateCommand": "pip install numpy pandas"
   }
